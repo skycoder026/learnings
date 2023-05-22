@@ -1,0 +1,9 @@
+- pwd : present working directory
+- cd : change directory [cd directory_name/path]
+- cd .. : back to previous directory
+- cd- : move to your previous directory
+- cd ~ : back to users home directory
+- ls : list files and directories
+- cat : create and write file content [cat filename]
+- cat > filename : create a new file
+- cp filename directory_name: 
